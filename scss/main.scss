@@ -610,6 +610,11 @@ input[type="submit"]:hover {
 }
 
 @media screen and (max-width: 600px) {
+    body {
+        background: url("https://i.postimg.cc/pX04WRnc/background-2.jpg") no-repeat center fixed;
+        background-size: cover;
+    }
+
     .menu-toggler {
         top: 2rem;
         right: 2rem;
