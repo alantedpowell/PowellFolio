@@ -4,7 +4,7 @@
   "description": "Alante Powell's Portfolio",
   "main": "index.js",
   "dependencies": {
-    "gh-pages": "^2.1.0",
+    "gh-pages": "^2.0",
     "node-sass": "^4.12.0"
   },
   "devDependencies": {},
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alantedpowell/Powell_Folio.git"
+    "url": "git+https://github.com/alantedpowell/PowellFolio.git"
   },
   "keywords": [
     "Portfolio"
@@ -22,7 +22,7 @@
   "author": "Alante' D. Powell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alantedpowell/Powell_Folio/issues"
+    "url": "https://github.com/alantedpowell/PowellFolio/issues"
   },
-  "homepage": "https://github.com/alantedpowell/Powell_Folio#readme"
+  "homepage": "https://github.com/alantedpowell/PowellFolio#readme"
 }
